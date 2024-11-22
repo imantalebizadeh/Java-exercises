@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="usernameInputHint">نام کاربری</string>
+    <string name="passwordInputHint">رمز عبور</string>
+    <string name="buttonText">ورود</string>
+    <string name="formText">خوش آمدید!</string>
+    <string name="username">نام کاربری</string>
+    <string name="googleBtn">سایت گوگل</string>
+    <string name="phoneBtn">تماس با ما</string>
+    <string name="mailBtn">ارسال ایمیل</string>
+</resources>
